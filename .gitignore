@@ -1,0 +1,14 @@
+# Build
+bin/
+obj/
+
+# VS
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Other
+TestResults/

@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+    <File Path="TODO.md" />
+  </Folder>
+  <Project Path="../TodoTestProject/TodoTestProject.csproj" Id="3a6b98c5-3610-4828-be60-620c430ae207" />
+  <Project Path="TodoWebApi.csproj" />
+</Solution>
